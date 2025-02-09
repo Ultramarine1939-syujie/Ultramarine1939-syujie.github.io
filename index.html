@@ -1,14 +1,8 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 title: Home
-layout: base
+banner: "/assets/images/banners/home.jpeg"
 ---
-
-<h1>My Latest Blogs</h1>
-
-<div class="blog-post">
-    {% for post in site.posts limit:5 %}
-    <h2><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a><h2>
-    <h3><i class="fas fa-calendar-alt"></i> {{ post.date | date_to_long_string }}</h3>
-    <p>{{ post.excerpt }} <a href="{{ post.url | absolute_url }}">[...]</a></p>
-    {% endfor -%}
-</div>
