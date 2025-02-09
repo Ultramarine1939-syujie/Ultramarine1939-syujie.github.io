@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mavros修改IMU数据传输频率
+title: Mavros修改IMU数据传输频率（简略版）
 subtitle: Each post also has a subtitle
 categories: Mavros
 tags: Mavros
