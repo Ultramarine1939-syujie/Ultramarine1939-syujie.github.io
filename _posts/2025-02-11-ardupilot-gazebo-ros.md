@@ -2,8 +2,8 @@
 layout: post
 title: Ardupilot-gazebo-ros 联合仿真环境配置
 subtitle: Each post also has a subtitle
-categories: vins
-tags: vins
+categories: ardupilot
+tags: ardupilot ros
 ---
 # Ardupilot Gazebo plugin
 
