@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mavproxy不完全使用指北（5）
-subtitle: Each post also has a subtitle
+subtitle: 飞行器连接
 categories: Mavproxy
 tags: Mavproxy
 ---

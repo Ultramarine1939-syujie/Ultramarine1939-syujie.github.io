@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mavproxy不完全使用指北（6）
-subtitle: Each post also has a subtitle
+subtitle: 点位控制
 categories: Mavproxy
 tags: Mavproxy
 ---
