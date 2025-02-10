@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vins-mono 安装教程
+title: VsCode-C++语言环境配置
 subtitle: Each post also has a subtitle
 categories: vins
 tags: vins
