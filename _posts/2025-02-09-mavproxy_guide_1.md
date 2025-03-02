@@ -120,14 +120,18 @@ module load auxopt
 
 位置控制基本属于长命令调用模块，该模块调用方法如下：
 
-```
+```python
 setspeed N							#飞行器目标速度设置为`N`m/s
-setyaw ANGLE ANGULAR_SPEED MODE		#将车辆的目标偏航设置为`ANGLE`（0-360），最大角速度为`ANGULAR_SPEED`（度/秒）。`MODE`为 0（绝对角度）或 1（相对角度）
+setyaw ANGLE ANGULAR_SPEED MODE		#将车辆的目标偏航设置为`ANGLE`（0-360），最大角速度为`ANGULAR_SPEED`（度/秒）。
+									#`MODE`为 0（绝对角度）或 1（相对角度）
 takeoff ALTITUDE_IN_METERS			#发送自动起飞命令（相对高度）
 velocity X Y Z						#在local north-east-down (x, y, z)坐标系中设置所需的车辆速度
 position X Y Z						#在local north-east-down (x, y, z)坐标系中设置所需的车辆位置（相对位置）
+									#改变飞行器朝向
+									#x 正前负后；y 正右负左；z 正下负上
 attitude Q0 Q1 Q2 Q3 thrust			#以四元数格式设置所需的姿态
 posvel N E D						#根据上一次鼠标在地图上的单击以及以 North-East-Down 格式 (m/s) 表示的目标速度设置目标位置。
+									#不改变飞行器当前朝向
 cmdlong COMMAND OPTIONS				#向车辆发送通用 MAV_CMD_LONG 消息。`COMMAND`是命令的名称。选项遵循格式。`[arg1] [arg2] ...`
 ```
 
@@ -135,7 +139,7 @@ cmdlong COMMAND OPTIONS				#向车辆发送通用 MAV_CMD_LONG 消息。`COMMAND
 
 MAVProxy 包含一些用于管理航路点的命令。这些可以通过命令行或 GUI 控制台的菜单栏输入。
 
-```
+```python
 wp list						#查看已经加载进自驾仪的航点
 wp load filename.txt		#加载特定航点文件
 wp save filename.txt		#保存当前航点文件
@@ -185,4 +189,12 @@ rally land					#命令自动驾驶仪从返航点着陆
 
 参考：http://diydrones.com/profiles/blogs/landing-from-rally-points
 
-### 
+#### 在仿真系统中启动飞行器的典型流程
+
+```c
+mode GUIDED			//切换模式
+arm uncheck all		//取消飞行检查
+arm throttle		//启动电机
+takeoff 10			//起飞到对应高度
+```
+
