@@ -15,11 +15,11 @@ tags: Vscode
 
 3、下载MinGW的安装包，安装并配置MinGW的bin目录到系统环境变量(Path)。
 
-![2](images/2.png)
+![2](https://github.com/Ultramarine1939-syujie/Ultramarine1939-syujie.github.io/blob/main/_posts/images/2.png)
 
 4、命令行gcc -v、g++ -v 验证环境变量是否配置成功
 
-![1](images/1.png)
+![1](https://github.com/Ultramarine1939-syujie/Ultramarine1939-syujie.github.io/blob/main/_posts/images/1.png)
 
 5、安装好插件之后，先写一个简单的 cpp 文件，直接运行debug，可以让编辑器自己去创建 lanch.json 和 task.json 配置文件
 

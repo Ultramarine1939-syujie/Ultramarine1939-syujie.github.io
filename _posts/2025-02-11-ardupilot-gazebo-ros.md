@@ -13,7 +13,7 @@ tags: ardupilot ros
 
 ubuntu20.04、Gazebo Classic 11、ROS-Noetic
 
-![indoor1](imgs/indoor1.jpg)
+![indoor1](https://github.com/Ultramarine1939-syujie/Ultramarine1939-syujie.github.io/blob/main/_posts/imgs/indoor1.jpg)
 
 ### 配置方法：
 
