@@ -3,7 +3,7 @@ layout: post
 title: RK3588安装Realsense运行D435深度相机
 subtitle: Each post also has a subtitle
 categories: realsense
-tags: realsense 
+tags: realsense RK3588
 ---
 
 ## RK3588安装Realsense运行D435深度相机

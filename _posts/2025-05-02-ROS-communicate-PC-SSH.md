@@ -3,7 +3,7 @@ layout: post
 title: PC与ROS机器人SSH通信以及多机通信设置
 subtitle: Each post also has a subtitle
 categories: ROS
-tags: ROS 
+tags: ROS SSH
 ---
 
 # PC与ROS机器人SSH通信以及多机通信设置

@@ -3,7 +3,7 @@ layout: post
 title: Px4-Gazebo-Mavros联合仿真环境的搭建
 subtitle: Each post also has a subtitle
 categories: ROS
-tags: ROS 
+tags: ROS PX4
 ---
 
 # Px4-Gazebo-Mavros
