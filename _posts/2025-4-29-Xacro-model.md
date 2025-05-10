@@ -14,7 +14,7 @@ realsense_ros_gazebo里提供的.xacro就是个大套娃，为了提取最关键
 (1) 利用cd命令切换到 xxx.acro 目录下
 (2) 执行下面命令即可
 
-```shell
+```bash
 rosrun xacro xacro xxx.xacro > xxx.urdf
 ```
 
