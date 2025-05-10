@@ -2,8 +2,8 @@
 layout: post
 title: Xacro模型的使用
 subtitle: Each post also has a subtitle
-categories: ros
-tags: ros 
+categories: ROS
+tags: ROS 
 ---
 
 ### Xacro的使用
