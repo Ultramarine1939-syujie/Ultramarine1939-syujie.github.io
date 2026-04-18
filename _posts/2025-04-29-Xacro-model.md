@@ -2,8 +2,8 @@
 layout: post
 title: Xacro模型的使用
 subtitle: Each post also has a subtitle
-categories: ROS
-tags: ROS gazebo
+categories: 机器人技术
+tags: Xacro ROS Gazebo URDF 机器人建模
 ---
 
 ### Xacro的使用

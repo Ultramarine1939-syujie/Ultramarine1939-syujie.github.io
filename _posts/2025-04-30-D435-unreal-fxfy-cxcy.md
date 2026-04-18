@@ -2,8 +2,8 @@
 layout: post
 title: D435虚拟相机内参
 subtitle: Each post also has a subtitle
-categories: realsense
-tags: realsense gazebo
+categories: 机器人技术
+tags: Intel Realsense Gazebo 仿真 深度相机
 ---
 
 # 虚拟相机内参

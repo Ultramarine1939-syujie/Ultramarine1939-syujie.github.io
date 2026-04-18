@@ -2,8 +2,8 @@
 layout: post
 title: Mavros修改IMU数据传输频率(完整版)
 subtitle: Each post also has a subtitle
-categories: Mavros
-tags: Mavros
+categories: 机器人技术
+tags: Mavros ROS IMU 无人机
 ---
 mavros中的IMU话题有两个，一个原始数据，另外一个是飞控计算过后的IMU数据。下面介绍几种方法来提高两个IMU话题的发布频率。
 

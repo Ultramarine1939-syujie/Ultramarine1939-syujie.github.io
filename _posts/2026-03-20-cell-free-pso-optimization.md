@@ -2,8 +2,8 @@
 layout: post
 title: "Cell-Free MIMO功率分配优化：PSO算法实践"
 date: 2026-03-20
-categories: [研究, 无线通信, 6G]
-tags: [CF-MIMO, 功率分配, PSO, 优化算法, 预编码]
+categories: 研究
+tags: CF-MIMO 功率分配 PSO 优化算法 资源调度
 ---
 
 # Cell-Free MIMO功率分配优化：PSO算法实践

@@ -2,8 +2,8 @@
 layout: post
 title: Mavproxy不完全使用指北（1）
 subtitle: 基础操作
-categories: Mavproxy
-tags: Mavproxy
+categories: 机器人技术
+tags: Mavproxy ROS 无人机 MAVLink
 ---
 
 # Mavproxy使用教程

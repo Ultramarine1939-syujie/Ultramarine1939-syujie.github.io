@@ -2,8 +2,8 @@
 layout: post
 title: Ardupilot-gazebo-ros 联合仿真环境配置
 subtitle: Each post also has a subtitle
-categories: ardupilot
-tags: ardupilot ros
+categories: 机器人技术
+tags: Ardupilot PX4 ROS Gazebo 无人机 仿真
 ---
 # Ardupilot Gazebo plugin
 

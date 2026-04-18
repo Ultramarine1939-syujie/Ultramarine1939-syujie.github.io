@@ -2,8 +2,8 @@
 layout: post
 title: Mavproxy不完全使用指北（2）
 subtitle: 飞行器本体控制
-categories: Mavproxy
-tags: Mavproxy
+categories: 机器人技术
+tags: Mavproxy ROS 无人机 MAVLink
 ---
 
 ## 基础命令

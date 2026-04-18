@@ -2,8 +2,8 @@
 layout: post
 title: 如何在 Ubuntu 中创建、删除和调整 SWAP 空间
 subtitle: Each post also has a subtitle
-categories: ubuntu
-tags: ubuntu 
+categories: 工具教程
+tags: Ubuntu Linux Swap 运维 
 ---
 
 # 如何在 Ubuntu 中创建、删除和调整 SWAP 空间

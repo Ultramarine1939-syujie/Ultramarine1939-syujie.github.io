@@ -2,8 +2,8 @@
 layout: post
 title: Mavproxy不完全使用指北（5）
 subtitle: 飞行器连接
-categories: Mavproxy
-tags: Mavproxy
+categories: 机器人技术
+tags: Mavproxy ROS 无人机 MAVLink
 ---
 ### Mavproxy_QuickStart
 

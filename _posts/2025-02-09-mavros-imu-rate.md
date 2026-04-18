@@ -2,8 +2,8 @@
 layout: post
 title: Mavros修改IMU数据传输频率（简略版）
 subtitle: Each post also has a subtitle
-categories: Mavros
-tags: Mavros
+categories: 机器人技术
+tags: Mavros ROS IMU 无人机
 ---
 
 # Mavros使用参考

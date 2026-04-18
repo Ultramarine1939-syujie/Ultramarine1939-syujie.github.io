@@ -2,8 +2,8 @@
 layout: post
 title: Vins-mono 安装教程
 subtitle: Each post also has a subtitle
-categories: vins
-tags: vins
+categories: 机器人技术
+tags: VINS SLAM ROS 视觉惯性导航
 ---
 参考代码：https://github.com/Ultramarine1939-syujie/VINS-Mono
 

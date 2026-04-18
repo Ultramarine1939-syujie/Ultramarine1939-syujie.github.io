@@ -2,8 +2,8 @@
 layout: post
 title: "CF-MIMO预编码设计：原理、实现与性能分析"
 date: 2026-03-20
-categories: [研究, 无线通信, 6G]
-tags: [CF-MIMO, 预编码, MR, L-MMSE, LP-MMSE, 频谱效率]
+categories: 研究
+tags: CF-MIMO 预编码 MR L-MMSE LP-MMSE 频谱效率
 ---
 
 # CF-MIMO预编码设计：原理、实现与性能分析

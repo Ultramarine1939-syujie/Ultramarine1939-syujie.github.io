@@ -2,8 +2,8 @@
 layout: post
 title: Px4-Gazebo-Mavros联合仿真环境的搭建
 subtitle: Each post also has a subtitle
-categories: ROS
-tags: ROS PX4
+categories: 机器人技术
+tags: PX4 Mavros ROS Gazebo 无人机 仿真
 ---
 
 # Px4-Gazebo-Mavros

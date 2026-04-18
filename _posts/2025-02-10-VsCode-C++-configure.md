@@ -2,8 +2,8 @@
 layout: post
 title: VsCode-C++语言环境配置
 subtitle: Each post also has a subtitle
-categories: Vscode
-tags: Vscode
+categories: 工具教程
+tags: Vscode C++ 开发环境
 ---
 # VsCode C++语言配置
 

@@ -2,8 +2,8 @@
 layout: post
 title: "CF-MIMO同步问题探究：本质、影响与解决方案"
 date: 2026-03-20
-categories: [研究, 无线通信, 6G]
-tags: [CF-MIMO, 同步, 时间同步, 相位同步, 预编码]
+categories: 研究
+tags: CF-MIMO 同步 时间同步 相位同步 信道估计
 ---
 
 # CF-MIMO同步问题探究

@@ -2,8 +2,8 @@
 layout: post
 title: "Cell-Free无蜂窝网络技术：研究现状与未来路径"
 date: 2026-03-20
-categories: [研究, 无线通信, 6G]
-tags: [Cell-Free, CF-MIMO, 6G, 大规模MIMO, 无蜂窝网络]
+categories: 研究
+tags: Cell-Free CF-MIMO 6G 大规模MIMO 无线通信 综述
 ---
 
 # Cell-Free无蜂窝网络技术：研究现状与未来路径

@@ -2,8 +2,8 @@
 layout: post
 title: Vins-fusion 安装教程
 subtitle: Each post also has a subtitle
-categories: vins
-tags: vins
+categories: 机器人技术
+tags: VINS-Fusion ROS 视觉惯性导航 多传感器融合
 ---
 
 参考来源：https://github.com/Ultramarine1939-syujie/VINS-Fusion

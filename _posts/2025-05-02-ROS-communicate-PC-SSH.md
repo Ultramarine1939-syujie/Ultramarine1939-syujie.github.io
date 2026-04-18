@@ -2,8 +2,8 @@
 layout: post
 title: PC与ROS机器人SSH通信以及多机通信设置
 subtitle: Each post also has a subtitle
-categories: ROS
-tags: ROS SSH
+categories: 机器人技术
+tags: ROS SSH 网络配置 分布式
 ---
 
 # PC与ROS机器人SSH通信以及多机通信设置

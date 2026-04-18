@@ -2,8 +2,8 @@
 layout: post
 title: The installation of Cartographer
 subtitle: Each post also has a subtitle
-categories: Cartographer
-tags: Cartographer
+categories: 机器人技术
+tags: Cartographer SLAM ROS
 ---
 # The installation of Cartographer
 

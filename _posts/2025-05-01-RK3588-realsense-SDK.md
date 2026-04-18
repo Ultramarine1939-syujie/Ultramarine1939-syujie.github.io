@@ -2,8 +2,8 @@
 layout: post
 title: RK3588安装Realsense运行D435深度相机
 subtitle: Each post also has a subtitle
-categories: realsense
-tags: realsense RK3588
+categories: 机器人技术
+tags: Intel Realsense RK3588 嵌入式 ARM
 ---
 
 ## RK3588安装Realsense运行D435深度相机
